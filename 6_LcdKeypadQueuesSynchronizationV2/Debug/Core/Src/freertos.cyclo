@@ -1,0 +1,3 @@
+../Core/Src/freertos.c:105:6:MX_FREERTOS_Init	1
+../Core/Src/freertos.c:165:6:vLcdTask	3
+../Core/Src/freertos.c:197:6:vKeypadTask	4
