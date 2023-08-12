@@ -542,6 +542,7 @@ void HAL_DBGMCU_EnableDBGStopMode(void)
   SET_BIT(DBGMCU->CR, DBGMCU_CR_DBG_STOP);
 }
 
+
 /**
   * @brief  Disable the Debug Module during STOP mode
   * Note: On devices STM32F10xx8 and STM32F10xxB,
