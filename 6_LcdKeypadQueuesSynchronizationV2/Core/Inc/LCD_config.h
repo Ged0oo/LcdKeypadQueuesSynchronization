@@ -10,7 +10,6 @@
 #ifndef __LCD_CONFIG_H__
 #define __LCD_CONFIG_H__
 
-
 #define 		LCD_PORT			GPIOA
 
 #define 		LCD_DATA_4			GPIO_PIN_0
