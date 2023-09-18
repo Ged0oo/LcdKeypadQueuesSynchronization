@@ -7,7 +7,6 @@
  */
 
 
-
 #ifndef __LCD_CONFIG_H__
 #define __LCD_CONFIG_H__
 
