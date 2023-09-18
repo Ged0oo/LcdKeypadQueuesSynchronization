@@ -22,5 +22,4 @@
 #define 		LCD_EN_PIN			GPIO_PIN_6
 
 
-
 #endif
